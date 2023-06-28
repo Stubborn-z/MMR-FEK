@@ -17,7 +17,7 @@ Code for the  paper "Word Sense Disambiguation with Knowledge-Enhanced and Local
 
 
 ## Data Preparation
-We follow the unified evaluation framework (raganato framework) for WSD. You can download the dataset [here](http://lcl.uniroma1.it/wsdeval/home) and unpack it in the data folder.
+We conduct experiments on two real-world public biomedical datasets for MED, which are MedMentions and BC5CDR. You can download the dataset [[here](https://github.com/chanzuckerberg/MedMentions)]and unpack it in the data folder.
 ## Train the WSD Model on the Dataset
 If you want to train your own model you just have to run the following command in the KELESC folder:
 ```shell
