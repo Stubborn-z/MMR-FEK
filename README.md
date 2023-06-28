@@ -1,6 +1,6 @@
 #  Improving Medical Entity Disambiguation withMedical Mention Relation Information and Entity Fine-grained Information
 
-Code for the  paper "Word Sense Disambiguation with Knowledge-Enhanced and Local Self-Attention-based Extractive Sense Comprehension"
+Code for the  paper "Improving Medical Entity Disambiguation withMedical Mention Relation Information and Entity Fine-grained Information"
 
 ## Environment
 - numpy=1.23.5
