@@ -16,8 +16,8 @@ Code for the  paper "Word Sense Disambiguation with Knowledge-Enhanced and Local
 ## Data Preparation
 We conduct experiments on two real-world public biomedical datasets for MED, which are MedMentions and BC5CDR. You can download the MedMentions dataset [[here](https://github.com/chanzuckerberg/MedMentions)]and BC5CDR dataset [[here](http://www.biocreative.org/tasks/biocreative-v/track-3-cdr/)], then unpack it in the data folder.
 ## Download BioBERT model
-Download the BioBERT v1.1 model and place is under the root directory /biobert.
-## Train the WSD Model on the Dataset
+Download the BioBERT v1.1 model and place is under the root directory ./biobert.
+## Train the MED Model on the Dataset
 If you want to train your own model you just have to run the following command in the KELESC folder:
 ```shell
 python model/train.py
