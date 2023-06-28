@@ -1,6 +1,6 @@
 #  Improving Medical Entity Disambiguation withMedical Mention Relation Information and Entity Fine-grained Information
 
-Code for the  paper "Improving Medical Entity Disambiguation withMedical Mention Relation Information and Entity Fine-grained Information"
+Code for the  paper "Improving Medical Entity Disambiguation with Medical Mention Relation Information and Entity Fine-grained Information"
 
 ## Environment
 - numpy=1.23.5
