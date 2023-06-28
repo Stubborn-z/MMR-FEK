@@ -3,17 +3,14 @@
 Code for the  paper "Word Sense Disambiguation with Knowledge-Enhanced and Local Self-Attention-based Extractive Sense Comprehension"
 
 ## Environment
-- black=21.5b2
-- nlp=0.4.0
-- nltk=3.4.5
-- numpy=1.21.2
-- pandas=1.3.5
-- python=3.7.12
-- pytorch=1.8.0
-- pytorch-lightning=0.9.0
-- tqdm=4.64.0
-- transformers=3.2.0
-- wandb=0.12.12
+- numpy=1.23.5
+- pandas=2.0.2
+- python=3.8
+- pytorch=1.9.0
+- scikit-learn=1.2.2
+- scipy=1.10.1
+- tqdm=4.65.0
+- transformers=4.2.0
 
 
 ## Data Preparation
