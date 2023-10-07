@@ -25,7 +25,7 @@ python model/train.py
 ## Evaluation
 If you want to evaluate the model on a dataset, just run the following command in the model folder:
 ```shell
-
+python evaluation/evaluate.py
 ```
 
 ## Citation
