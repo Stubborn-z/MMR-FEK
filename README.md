@@ -18,12 +18,12 @@ We conduct experiments on two real-world public biomedical datasets for MED, whi
 ## Download BioBERT model
 Download the BioBERT v1.1 model and place is under the root directory ./biobert.
 ## Train the MED Model on the Dataset
-If you want to train your own model you just have to run the following command in the KELESC folder:
+If you want to train your own model you just have to run the following command in the model folder:
 ```shell
 python model/train.py
 ```
 ## Evaluation
-If you want to evaluate the model on a dataset, just run the following command in the KELESC folder:
+If you want to evaluate the model on a dataset, just run the following command in the model folder:
 ```shell
 
 ```
