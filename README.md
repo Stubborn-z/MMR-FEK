@@ -31,16 +31,5 @@ The ```--dataset-paths``` can be modified. For example, change  ```/semeval2007/
 ## Citation
 Please cite our paper if you find it helpful.
 ```
-@inproceedings{,
-    title = "Word Sense Disambiguation with Knowledge-Enhanced and Local Self-Attention-based Extractive Sense Comprehension",
-    author = "Guobiao Zhang and 
-      Wenpeng Lu and
-      Xueping Peng and
-      Shoujin Wang and
-      Baoshuo Kan and
-      Rui Yu",
-    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
-    year = "2022",
-}
 
 
