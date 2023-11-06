@@ -28,8 +28,5 @@ If you want to evaluate the model on a dataset, just run the following command i
 python evaluation/evaluate.py
 ```
 
-## Citation
-Please cite our paper if you find it helpful.
-```
 
 
