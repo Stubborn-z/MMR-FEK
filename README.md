@@ -26,7 +26,7 @@ python model/model.py --data_dir data/BC5CDR/processed_data/ --model_type bert -
 ## Evaluation
 If you want to evaluate the model on a dataset, just run the following command in the model folder:
 ```shell
-python evaluation/evaluate.py
+python evaluation/evaluate.py 
 ```
 ## Acknowledgement
 If this work is useful in your research, please cite our paper.
