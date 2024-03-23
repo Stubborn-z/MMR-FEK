@@ -2,7 +2,7 @@
 
 This repository contains the source code and available two datasets for the paper "Medical Entity Disambiguation with Medical Mention Relation and Fine-grained Entity Knowledge".
 
-## Environment
+## Environment Requirements
 - numpy=1.23.5
 - pandas=2.0.2
 - python=3.8
