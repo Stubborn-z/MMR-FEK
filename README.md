@@ -21,7 +21,7 @@ Download the BioBERT v1.1 model https://huggingface.co/dmis-lab/biobert-v1.1 and
 ## Train the MED Model on the Dataset
 If you want to train our model you just have to run the following command in the model folder:
 ```shell
-python model/train.py
+python model/model.py --data_dir data/BC5CDR/processed_data/ --model_type bert --model_name_or_path biobert --output_dir output --overwrite_output_dir --overwrite_cache --use_hard_and_random_negative --do_train
 ```
 ## Evaluation
 If you want to evaluate the model on a dataset, just run the following command in the model folder:
