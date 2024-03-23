@@ -28,6 +28,17 @@ If you want to evaluate the model on a dataset, just run the following command i
 ```shell
 python evaluation/evaluate.py
 ```
+## Acknowledgement
+If this work is useful in your research, please cite our paper.
+```shell
+@inproceedings{zhang2022word,
+  title={Medical Entity Disambiguation with Medical Mention Relation and Fine-grained Entity Knowledge},
+  author={Lu, Wenpeng and Zhang, Guobiao and Guan, Hongjiao and Peng, Xueping and Wang, Shoujin},
+  booktitle={},
+  pages={},
+  year={2024}
+}
+```
 
 
 
