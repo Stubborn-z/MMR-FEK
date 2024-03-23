@@ -1,6 +1,6 @@
 #  Medical Entity Disambiguation with Medical Mention Relation and Fine-grained Entity Knowledge
 
-Code for the  paper "Medical Entity Disambiguation with Medical Mention Relation and Fine-grained Entity Knowledge"
+This repository contains the source code and available two datasets for the paper "Medical Entity Disambiguation with Medical Mention Relation and Fine-grained Entity Knowledge".
 
 ## Environment
 - numpy=1.23.5
