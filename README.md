@@ -17,7 +17,7 @@ This repository contains the source code and available two datasets for the pape
 - We conduct experiments on two real-world public biomedical datasets for MED, which are MedMentions and BC5CDR. You can download the original MedMentions dataset https://github.com/chanzuckerberg/MedMentions and BC5CDR dataset http://www.biocreative.org/tasks/biocreative-v/track-3-cdr/, then unpack it in the data folder.
 - We offer preprocessing code to ensure uniform formatting. You can execute these codes to process all datasets consistently. The corresponding codes can be found in the "data_preprocess" directory.
 ## Download BioBERT model
-Download the BioBERT v1.1 model and place is under the root directory ./biobert.
+Download the BioBERT v1.1 model https://huggingface.co/dmis-lab/biobert-v1.1 and place is under the root directory ./biobert.
 ## Train the MED Model on the Dataset
 If you want to train our model you just have to run the following command in the model folder:
 ```shell
